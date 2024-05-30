@@ -4,6 +4,7 @@ bluebell是一个基于gin框架和Vue框架搭建的前后端分离的web项目
 
 ## 技能清单
 
+
 1. gin框架
 2. zap日志库
 3. Viper配置管理
